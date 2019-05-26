@@ -6,7 +6,6 @@ public class Tuna{
 		System.out.println("Ovo je dodato najkasnije");
 		System.out.println("first branch");
 		//komentar
-		System.out.println("Sad cemo da vidimo cija baba vozi tudju biciklu!");
-		//pozdrav od miljenka cuture
+		//pozdrav od cuture iz daljine
 	}
 }
