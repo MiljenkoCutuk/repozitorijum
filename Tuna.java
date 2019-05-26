@@ -8,5 +8,6 @@ public class Tuna{
 		//komentar
 		System.out.println("Sad cemo da vidimo cija baba vozi tudju biciklu!");
 		//pozdrav od miljenka cuture
+		System.out.println("Novi pozdrav od miljenka cuture");
 	}
 }
